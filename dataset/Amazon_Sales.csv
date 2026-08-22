@@ -1,0 +1,201 @@
+Order_ID,Date,Region,Category,Product,Customer,Price,Quantity,Sales,Target
+1001,2024-10-16,South,Home Appliances,Smart TV,Customer_95,33278,3,99834,92193.46
+1002,2023-04-15,North,Fashion,Jeans,Customer_12,1712,5,8560,8359.5
+1003,2023-08-12,South,Electronics,Smartwatch,Customer_92,36118,5,180590,154939.14
+1004,2024-10-27,East,Fashion,Jeans,Customer_1,4436,2,8872,8736.81
+1005,2023-06-13,East,Electronics,Camera,Customer_14,119194,3,357582,320623.7
+1006,2023-04-05,Central,Home Appliances,Microwave,Customer_34,11169,3,33507,37000.05
+1007,2023-02-14,West,Electronics,Printer,Customer_11,40142,1,40142,45839.54
+1008,2024-07-19,East,Furniture,Office Chair,Customer_74,46198,5,230990,257700.65
+1009,2023-07-16,North,Electronics,Tablet,Customer_30,18003,2,36006,38955.63
+1010,2023-04-14,East,Home Appliances,Microwave,Customer_21,17108,4,68432,71217.55
+1011,2024-01-15,North,Home Appliances,Air Conditioner,Customer_78,57460,3,172380,182816.94
+1012,2024-10-12,West,Home Appliances,Washing Machine,Customer_35,55005,2,110010,98901.27
+1013,2024-10-17,North,Fashion,Jeans,Customer_30,2799,3,8397,9260.68
+1014,2023-02-02,Central,Furniture,Dining Table,Customer_92,67581,3,202743,176357.33
+1015,2023-11-19,West,Electronics,Headphones,Customer_19,22477,4,89908,87092.94
+1016,2023-09-29,Central,Home Appliances,Refrigerator,Customer_55,57325,5,286625,289976.56
+1017,2024-08-20,South,Home Appliances,Microwave,Customer_66,19861,2,39722,45648.43
+1018,2024-05-20,South,Electronics,Tablet,Customer_88,18087,1,18087,16203.28
+1019,2024-03-08,West,Electronics,Monitor,Customer_68,12163,4,48652,46924.16
+1020,2023-09-15,Central,Fashion,Jeans,Customer_97,1094,1,1094,1153.64
+1021,2023-10-01,West,Furniture,Dining Table,Customer_1,29621,3,88863,87123.91
+1022,2023-09-27,East,Fashion,T-Shirt,Customer_82,1963,5,9815,11029.98
+1023,2024-06-03,South,Electronics,Monitor,Customer_70,21035,2,42070,40478.67
+1024,2024-06-27,North,Electronics,Laptop,Customer_47,118504,3,355512,354296.76
+1025,2023-11-11,North,Electronics,Smartwatch,Customer_11,6796,2,13592,15133.37
+1026,2024-05-12,West,Electronics,Tablet,Customer_71,49911,2,99822,88693.59
+1027,2023-06-19,South,Furniture,Sofa,Customer_70,89163,5,445815,435535.12
+1028,2024-12-07,East,Electronics,Headphones,Customer_57,24361,3,73083,70868.42
+1029,2024-06-13,East,Electronics,Printer,Customer_3,12930,2,25860,23724.2
+1030,2024-08-25,North,Fashion,Jeans,Customer_91,2885,5,14425,13214.24
+1031,2024-10-08,East,Mobiles,Smartphone,Customer_10,45007,1,45007,50481.02
+1032,2024-06-10,South,Electronics,Smartwatch,Customer_93,21250,4,85000,77713.04
+1033,2024-08-07,West,Fashion,Backpack,Customer_25,8744,2,17488,18981.23
+1034,2023-04-07,West,Home Appliances,Smart TV,Customer_60,116374,4,465496,445148.83
+1035,2023-02-25,North,Home Appliances,Smart TV,Customer_32,37944,4,151776,162167.2
+1036,2023-07-16,South,Electronics,Headphones,Customer_36,18573,4,74292,66272.53
+1037,2024-04-18,Central,Electronics,Smartwatch,Customer_13,7940,4,31760,34694.84
+1038,2023-02-21,South,Fashion,Jeans,Customer_22,7848,1,7848,8952.2
+1039,2024-02-21,North,Fashion,Shoes,Customer_22,8886,2,17772,19716.17
+1040,2024-01-24,West,Electronics,Laptop,Customer_37,91173,3,273519,308517.24
+1041,2024-03-09,East,Fashion,Jeans,Customer_28,6422,4,25688,23027.73
+1042,2023-03-01,North,Fashion,Backpack,Customer_7,9883,1,9883,10618.22
+1043,2024-08-21,Central,Fashion,Shoes,Customer_11,9238,5,46190,41443.05
+1044,2023-07-10,South,Electronics,Tablet,Customer_52,53996,1,53996,56834.23
+1045,2023-05-03,Central,Fashion,Backpack,Customer_11,5033,5,25165,25878.57
+1046,2024-03-05,South,Fashion,Backpack,Customer_86,9565,3,28695,32437.17
+1047,2023-11-18,East,Electronics,Smartwatch,Customer_59,20407,4,81628,72588.8
+1048,2023-11-20,Central,Electronics,Tablet,Customer_13,15610,4,62440,64709.56
+1049,2023-03-17,East,Fashion,Jeans,Customer_9,2746,5,13730,12762.86
+1050,2023-09-08,Central,Home Appliances,Air Conditioner,Customer_91,67353,2,134706,132207.93
+1051,2023-11-06,Central,Electronics,Monitor,Customer_39,50858,5,254290,216743.3
+1052,2024-11-10,North,Home Appliances,Smart TV,Customer_96,145097,2,290194,269688.83
+1053,2024-07-20,East,Home Appliances,Refrigerator,Customer_27,60697,3,182091,187817.57
+1054,2024-12-04,North,Furniture,Sofa,Customer_12,86244,4,344976,319218.84
+1055,2024-10-11,South,Electronics,Camera,Customer_82,102530,1,102530,87259.56
+1056,2023-09-26,West,Home Appliances,Washing Machine,Customer_72,68577,4,274308,278560.91
+1057,2023-01-10,East,Home Appliances,Smart TV,Customer_75,39862,2,79724,80814.39
+1058,2024-07-19,East,Home Appliances,Refrigerator,Customer_6,81333,2,162666,140307.34
+1059,2024-01-02,East,Electronics,Headphones,Customer_100,23349,2,46698,49036.64
+1060,2024-07-27,South,Electronics,Camera,Customer_53,70515,2,141030,156456.1
+1061,2023-01-26,West,Home Appliances,Washing Machine,Customer_86,68271,3,204813,222163.93
+1062,2023-09-12,North,Furniture,Sofa,Customer_61,40866,1,40866,39425.99
+1063,2023-08-16,South,Electronics,Headphones,Customer_29,27757,4,111028,106020.36
+1064,2023-01-25,North,Electronics,Headphones,Customer_99,14056,3,42168,39367.24
+1065,2023-10-13,Central,Home Appliances,Air Conditioner,Customer_43,114080,5,570400,553232.97
+1066,2023-01-29,East,Home Appliances,Smart TV,Customer_5,144955,3,434865,392931.12
+1067,2023-04-22,East,Electronics,Monitor,Customer_56,36479,3,109437,116940.39
+1068,2024-09-12,South,Fashion,T-Shirt,Customer_33,1447,4,5788,6481.7
+1069,2023-02-15,Central,Electronics,Camera,Customer_88,30443,5,152215,171648.68
+1070,2024-11-17,East,Electronics,Headphones,Customer_80,12934,4,51736,45061.65
+1071,2023-11-18,West,Home Appliances,Smart TV,Customer_42,124339,3,373017,373814.04
+1072,2024-02-17,West,Furniture,Office Chair,Customer_87,41333,2,82666,75023.7
+1073,2023-06-28,North,Electronics,Monitor,Customer_39,45296,3,135888,132059.02
+1074,2023-10-21,East,Electronics,Headphones,Customer_60,15086,5,75430,77843.64
+1075,2024-03-28,South,Electronics,Printer,Customer_85,49277,2,98554,98884.37
+1076,2023-03-28,South,Furniture,Office Chair,Customer_87,38780,5,193900,184312.9
+1077,2023-11-14,South,Electronics,Smartwatch,Customer_61,16050,2,32100,27520.22
+1078,2024-09-17,Central,Electronics,Tablet,Customer_25,44846,4,179384,200164.03
+1079,2024-12-14,North,Home Appliances,Microwave,Customer_97,24199,4,96796,89361.62
+1080,2023-04-20,Central,Electronics,Camera,Customer_60,87367,2,174734,190675.5
+1081,2023-02-21,West,Fashion,Jeans,Customer_86,3041,1,3041,3001.28
+1082,2024-06-27,West,Fashion,Jeans,Customer_79,5877,3,17631,20011.39
+1083,2024-05-31,West,Electronics,Camera,Customer_58,173621,4,694484,777240.4
+1084,2023-09-23,South,Electronics,Smartwatch,Customer_36,21173,5,105865,105375.81
+1085,2024-03-26,East,Electronics,Tablet,Customer_70,33725,2,67450,62830.66
+1086,2023-03-24,South,Home Appliances,Refrigerator,Customer_91,44769,2,89538,86396.16
+1087,2023-08-08,West,Electronics,Tablet,Customer_54,42188,4,168752,160190.27
+1088,2023-03-05,Central,Electronics,Headphones,Customer_90,28292,4,113168,109415.69
+1089,2023-01-21,East,Fashion,Backpack,Customer_39,7232,4,28928,24639.97
+1090,2024-02-04,South,Electronics,Camera,Customer_63,171091,5,855455,932412.12
+1091,2023-08-13,East,Furniture,Sofa,Customer_86,77125,4,308500,264911.25
+1092,2024-11-26,South,Home Appliances,Microwave,Customer_80,31729,2,63458,69940.34
+1093,2024-06-30,North,Electronics,Laptop,Customer_11,91645,5,458225,467076.8
+1094,2024-10-20,East,Electronics,Camera,Customer_49,65572,4,262288,237244.4
+1095,2023-12-02,West,Electronics,Headphones,Customer_36,15899,3,47697,45371.78
+1096,2024-03-07,Central,Furniture,Sofa,Customer_7,129433,1,129433,128280.02
+1097,2023-12-25,South,Electronics,Smartwatch,Customer_26,7496,1,7496,8067.72
+1098,2023-01-21,North,Electronics,Monitor,Customer_73,17986,2,35972,31938.33
+1099,2023-08-12,Central,Electronics,Printer,Customer_96,21793,3,65379,58863.12
+1100,2023-04-28,East,Home Appliances,Washing Machine,Customer_74,40384,1,40384,41337.28
+1101,2024-11-24,South,Home Appliances,Microwave,Customer_14,20997,2,41994,36652.32
+1102,2024-12-14,Central,Furniture,Office Chair,Customer_6,49843,5,249215,272057.65
+1103,2023-12-22,East,Fashion,Jeans,Customer_2,4509,3,13527,11777.78
+1104,2024-03-06,West,Fashion,Shoes,Customer_91,2729,4,10916,12424.99
+1105,2023-06-06,East,Electronics,Camera,Customer_79,76173,5,380865,434049.8
+1106,2024-07-05,Central,Fashion,Shoes,Customer_35,8616,4,34464,37831.84
+1107,2023-11-27,South,Electronics,Smartwatch,Customer_97,8679,3,26037,29017.96
+1108,2024-04-20,East,Fashion,Backpack,Customer_24,7209,3,21627,18569.16
+1109,2024-05-14,Central,Electronics,Headphones,Customer_90,12626,3,37878,36063.71
+1110,2023-10-10,North,Fashion,Jeans,Customer_31,1083,5,5415,6142.88
+1111,2024-02-21,West,Fashion,Shoes,Customer_58,10096,2,20192,21346.64
+1112,2023-01-18,South,Electronics,Tablet,Customer_40,34283,2,68566,66599.55
+1113,2024-11-10,East,Fashion,Backpack,Customer_55,7046,4,28184,28636.12
+1114,2024-07-17,East,Furniture,Dining Table,Customer_30,61112,4,244448,227648.29
+1115,2023-05-04,South,Electronics,Headphones,Customer_25,11339,1,11339,12165.21
+1116,2023-08-10,Central,Fashion,Shoes,Customer_77,5530,5,27650,31603.46
+1117,2023-10-17,East,Home Appliances,Smart TV,Customer_23,139134,2,278268,261258.57
+1118,2023-11-06,North,Electronics,Laptop,Customer_71,110010,2,220020,205123.19
+1119,2023-10-27,North,Home Appliances,Refrigerator,Customer_74,108606,4,434424,382630.36
+1120,2023-10-19,North,Fashion,Shoes,Customer_33,8843,4,35372,33681.64
+1121,2024-05-04,North,Home Appliances,Smart TV,Customer_74,137756,1,137756,133652.56
+1122,2024-10-06,East,Mobiles,Smartphone,Customer_11,34887,2,69774,76286.89
+1123,2023-09-12,Central,Home Appliances,Smart TV,Customer_29,103147,4,412588,425747.62
+1124,2024-06-19,Central,Home Appliances,Microwave,Customer_55,22762,4,91048,85512.82
+1125,2023-11-09,North,Fashion,Backpack,Customer_98,1986,5,9930,11300.66
+1126,2023-08-01,South,Electronics,Headphones,Customer_71,9671,1,9671,8676.02
+1127,2023-03-18,Central,Home Appliances,Washing Machine,Customer_61,20175,4,80700,79501.69
+1128,2023-10-26,West,Mobiles,Smartphone,Customer_10,45340,3,136020,144465.04
+1129,2024-12-04,South,Electronics,Smartwatch,Customer_55,20337,5,101685,106601.97
+1130,2023-04-28,South,Fashion,Jeans,Customer_10,2841,2,5682,6378.18
+1131,2023-03-03,Central,Home Appliances,Washing Machine,Customer_37,71945,3,215835,221989.15
+1132,2024-03-25,East,Home Appliances,Smart TV,Customer_65,91433,3,274299,290735.03
+1133,2024-07-06,West,Fashion,Shoes,Customer_95,8172,1,8172,8412.35
+1134,2023-11-27,Central,Electronics,Monitor,Customer_76,24408,1,24408,21415.53
+1135,2023-01-22,South,Furniture,Sofa,Customer_61,95529,1,95529,103069.36
+1136,2024-06-15,West,Electronics,Printer,Customer_82,23229,2,46458,53384.13
+1137,2024-05-18,East,Electronics,Tablet,Customer_86,45802,3,137406,133627.94
+1138,2023-04-18,East,Home Appliances,Washing Machine,Customer_85,41614,4,166456,176127.44
+1139,2024-02-15,East,Fashion,Jeans,Customer_42,1300,4,5200,4557.37
+1140,2023-04-29,North,Home Appliances,Microwave,Customer_85,36341,5,181705,199417.27
+1141,2024-07-09,East,Electronics,Printer,Customer_80,32082,1,32082,29075.11
+1142,2024-05-25,South,Electronics,Printer,Customer_37,8382,2,16764,15592.48
+1143,2024-03-24,Central,Fashion,Shoes,Customer_31,2989,1,2989,3413.27
+1144,2024-12-27,West,Home Appliances,Washing Machine,Customer_12,40365,5,201825,172379.2
+1145,2023-08-19,South,Home Appliances,Smart TV,Customer_64,90482,1,90482,94491.52
+1146,2023-10-26,West,Fashion,T-Shirt,Customer_32,2739,4,10956,12056.17
+1147,2024-04-12,Central,Fashion,Jeans,Customer_66,2184,4,8736,7925.15
+1148,2023-05-20,Central,Electronics,Tablet,Customer_35,33104,4,132416,126055.08
+1149,2023-01-03,West,Furniture,Office Chair,Customer_20,24566,5,122830,125775.1
+1150,2024-04-02,Central,Fashion,Jeans,Customer_49,4967,3,14901,14151.96
+1151,2024-04-11,South,Furniture,Dining Table,Customer_100,39727,2,79454,81165.38
+1152,2024-02-25,West,Mobiles,Smartphone,Customer_50,56704,4,226816,240780.69
+1153,2024-11-10,Central,Home Appliances,Refrigerator,Customer_43,89923,1,89923,79840.28
+1154,2023-04-13,North,Electronics,Printer,Customer_93,11534,5,57670,64771.05
+1155,2023-05-28,East,Electronics,Camera,Customer_44,70464,1,70464,69819.06
+1156,2024-09-30,Central,Home Appliances,Microwave,Customer_49,29293,1,29293,32384.28
+1157,2023-11-21,South,Fashion,Shoes,Customer_81,9864,1,9864,10211.59
+1158,2024-12-01,North,Furniture,Office Chair,Customer_98,19908,1,19908,19513.65
+1159,2024-10-10,North,Home Appliances,Smart TV,Customer_6,88153,2,176306,186567.07
+1160,2023-11-29,South,Mobiles,Smartphone,Customer_32,53452,3,160356,154335.01
+1161,2024-06-27,North,Electronics,Camera,Customer_79,178354,2,356708,321392.16
+1162,2024-01-27,Central,Electronics,Monitor,Customer_19,52769,2,105538,105464.14
+1163,2023-08-26,North,Electronics,Printer,Customer_60,46805,3,140415,138711.93
+1164,2023-10-22,East,Fashion,Jeans,Customer_76,2294,1,2294,2253.9
+1165,2023-11-03,South,Electronics,Camera,Customer_50,95561,4,382244,421841.11
+1166,2024-05-09,Central,Home Appliances,Smart TV,Customer_38,61091,4,244364,249636.6
+1167,2024-12-17,Central,Furniture,Office Chair,Customer_88,6437,4,25748,24006.0
+1168,2023-02-20,East,Electronics,Monitor,Customer_100,56835,4,227340,250040.28
+1169,2023-08-24,Central,Electronics,Monitor,Customer_33,31089,2,62178,64726.39
+1170,2024-11-25,North,Home Appliances,Refrigerator,Customer_40,107345,1,107345,120336.01
+1171,2024-03-27,East,Mobiles,Smartphone,Customer_42,62823,2,125646,110196.57
+1172,2024-03-01,East,Home Appliances,Washing Machine,Customer_68,33159,2,66318,72018.29
+1173,2024-05-28,West,Furniture,Sofa,Customer_38,128851,2,257702,238913.21
+1174,2023-12-13,South,Home Appliances,Smart TV,Customer_87,91385,1,91385,81536.17
+1175,2024-11-21,West,Home Appliances,Microwave,Customer_2,39695,5,198475,190482.91
+1176,2023-09-28,East,Fashion,Jeans,Customer_75,2012,4,8048,7730.71
+1177,2024-01-26,Central,Home Appliances,Air Conditioner,Customer_72,44201,2,88402,87645.55
+1178,2023-12-02,West,Electronics,Monitor,Customer_90,22507,1,22507,23421.26
+1179,2023-11-06,North,Electronics,Camera,Customer_39,60585,2,121170,104642.9
+1180,2024-05-19,South,Home Appliances,Smart TV,Customer_50,42739,2,85478,95408.65
+1181,2024-04-09,South,Home Appliances,Air Conditioner,Customer_54,117881,5,589405,575104.87
+1182,2024-11-01,East,Home Appliances,Smart TV,Customer_5,139273,4,557092,576420.68
+1183,2024-12-07,South,Home Appliances,Air Conditioner,Customer_47,58477,4,233908,230027.18
+1184,2023-04-12,East,Home Appliances,Air Conditioner,Customer_25,101364,3,304092,264002.04
+1185,2023-05-06,Central,Electronics,Printer,Customer_3,11007,2,22014,22949.84
+1186,2023-02-21,South,Furniture,Dining Table,Customer_9,46925,2,93850,101929.87
+1187,2024-07-21,South,Electronics,Headphones,Customer_43,20214,2,40428,44224.83
+1188,2023-06-01,South,Electronics,Monitor,Customer_17,8185,3,24555,27195.2
+1189,2024-07-07,North,Furniture,Sofa,Customer_17,124662,2,249324,220147.58
+1190,2023-01-16,South,Home Appliances,Air Conditioner,Customer_34,61186,5,305930,289755.92
+1191,2023-02-23,North,Home Appliances,Refrigerator,Customer_61,80176,5,400880,354415.92
+1192,2024-04-04,Central,Home Appliances,Air Conditioner,Customer_29,97271,5,486355,429313.44
+1193,2024-09-21,North,Mobiles,Smartphone,Customer_8,83347,3,250041,246893.67
+1194,2024-05-05,West,Home Appliances,Microwave,Customer_10,21968,1,21968,21903.87
+1195,2023-03-24,East,Furniture,Dining Table,Customer_80,94730,2,189460,164774.25
+1196,2024-10-10,Central,Fashion,Backpack,Customer_68,9984,3,29952,28881.85
+1197,2023-10-29,North,Electronics,Printer,Customer_84,38131,5,190655,186662.65
+1198,2024-10-28,South,Fashion,Jeans,Customer_53,6905,2,13810,13520.28
+1199,2023-12-14,East,Electronics,Printer,Customer_55,31131,4,124524,133101.68
+1200,2023-11-17,West,Furniture,Sofa,Customer_9,69060,2,138120,145861.12
